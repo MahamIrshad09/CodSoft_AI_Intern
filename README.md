@@ -24,13 +24,13 @@ This project is a classic game of Tic-Tac-Toe where you can play against an unbe
 
 Have fun playing Tic-Tac-Toe against the unbeatable AI! If you encounter any issues or have ideas for improvements, please feel free to open an issue or contribute to the project.
 
-#Rule-Based ChatBot
+# Rule-Based ChatBot
 
-##What Is This?
+## What Is This?
 
 This is a simple chatbot that can have text conversations with you. It can answer questions, provide information, and engage in simple chats. But here's the trick: it responds based on a set of predefined rules. Think of it like a chatbot with a script - it has answers for certain questions.
 
-##How to Use It
+## How to Use It
 
 Get the Code: First, you need to get the chatbot's code onto your computer. You can do this by clicking the "Clone or Download" button and then selecting "Download ZIP." Once it's downloaded, unzip the file.
 
@@ -45,6 +45,6 @@ rules = {
     # Add more rules and responses here
 }
 
-##What Can I Use It For?
+## What Can I Use It For?
 
 This project is a basic introduction to chatbots and how they can respond to user questions. It doesn't understand language like humans do but can be a good starting point to learn about chatbot development and get a grasp of how they work.
