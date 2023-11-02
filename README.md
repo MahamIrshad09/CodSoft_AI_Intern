@@ -44,7 +44,77 @@ rules = {
     "how are you": ["I'm just a computer program, but I'm doing well. How can I help you?"],
     # Add more rules and responses here
 }
-
 ## What Can I Use It For?
 
 This project is a basic introduction to chatbots and how they can respond to user questions. It doesn't understand language like humans do but can be a good starting point to learn about chatbot development and get a grasp of how they work.
+
+
+# Movie Recommendation System
+
+This is a simple movie recommendation system that uses collaborative filtering to suggest movies to users based on their preferences.
+
+## Introduction
+
+Recommendation systems are widely used in today's applications to provide personalized suggestions to users. This project showcases how to build a basic movie recommendation system using collaborative filtering. It calculates movie recommendations for users based on their ratings and the similarity of movie preferences among users.
+
+## Features
+
+- Collaborative filtering-based movie recommendations.
+- Use your own dataset or customize the system to suit your needs.
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/movie-recommendation-system.git
+
+   Install the required dependencies
+   pip install scikit-learn pandas
+Replace the sample dataset with your own dataset in the project directory.
+Run the Python script:
+  python recommendation_system.py
+
+Certainly! A good README file is essential for your GitHub project as it helps visitors understand your project and how to use it. Here's a template for a README file tailored to your movie recommendation system project:
+
+markdown
+Copy code
+# Movie Recommendation System
+
+This is a simple movie recommendation system that uses collaborative filtering to suggest movies to users based on their preferences.
+## Introduction
+
+Recommendation systems are widely used in today's applications to provide personalized suggestions to users. This project showcases how to build a basic movie recommendation system using collaborative filtering. It calculates movie recommendations for users based on their ratings and the similarity of movie preferences among users.
+
+## Features
+
+- Collaborative filtering-based movie recommendations.
+- Use your own dataset or customize the system to suit your needs.
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/movie-recommendation-system.git
+Install the required dependencies (you may need to install scikit-learn and pandas if not already installed):
+
+bash
+Copy code
+pip install scikit-learn pandas
+Replace the sample dataset with your own dataset in the project directory.
+
+Run the Python script:
+
+bash
+Copy code
+python recommendation_system.py
+##Usage
+Customize the user_ratings list in recommendation_system.py to provide sample user ratings and get movie recommendations based on those ratings.
+##Dataset
+You can use your own movie dataset, or you can use the provided sample dataset. The sample dataset includes movie ratings and information about movies.
+
+##Contributing
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
+
+
