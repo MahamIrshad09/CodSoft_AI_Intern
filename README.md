@@ -1,4 +1,4 @@
-# Tic-Tac-Toe with Minimax
+# Task 1- Tic-Tac-Toe with Minimax Using AI
 
 This project is a classic game of Tic-Tac-Toe where you can play against an unbeatable AI opponent. The AI uses the Minimax algorithm to ensure it makes the best possible moves. This project serves as a practical example of game theory and basic search algorithms.
 
@@ -24,7 +24,7 @@ This project is a classic game of Tic-Tac-Toe where you can play against an unbe
 
 Have fun playing Tic-Tac-Toe against the unbeatable AI! If you encounter any issues or have ideas for improvements, please feel free to open an issue or contribute to the project.
 
-# Rule-Based ChatBot
+# Task 2- Rule-Based ChatBot using AI
 
 ## What Is This?
 
@@ -48,7 +48,7 @@ rules = {
 
 This project is a basic introduction to chatbots and how they can respond to user questions. It doesn't understand language like humans do but can be a good starting point to learn about chatbot development and get a grasp of how they work.
 
-# Movie Recommendation System
+# Task 3- Movie Recommendation System Using AI
 
 This is a simple movie recommendation system that uses collaborative filtering to suggest movies to users based on their preferences.
 ## Introduction
@@ -62,17 +62,15 @@ Recommendation systems are widely used in today's applications to provide person
 
 ## Installation
 
-1. Clone the repository to your local machine:
-
-   git clone https://github.com/your-username/movie-recommendation-system.git
-Install the required dependencies (you may need to install scikit-learn and pandas if not already installed):
-pip install scikit-learn pandas
+1. Clone the repository to your local machine
+2. Install the required dependencies (you may need to install scikit-learn and pandas if not already installed):
+   pip install scikit-learn pandas
 
 3. Replace the sample dataset with your own dataset in the project directory.
 
 4. Run the Python script:
    
-python recommendation_system.py
+   python recommendation_system.py
 ## Usage
 
 Customize the user_ratings list in recommendation_system.py to provide sample user ratings and get movie recommendations based on those ratings.
